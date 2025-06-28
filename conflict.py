@@ -1,2 +1,3 @@
 def greet():
-    return "Hello from main branch"
+    return "Hello from conflict-feature branch"
+
