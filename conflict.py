@@ -1,3 +1,4 @@
 def greet():
-    return "Hello from main branch v1"
+    return "Hello from both branches"
+
 
